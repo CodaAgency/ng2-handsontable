@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/valor-software/ng2-handsontable#readme",
   "dependencies": {
-    "handsontable": "^0.35.0"
+    "handsontable": "github:CodaAgency/handsontable"
   },
   "devDependencies": {
     "@angular/cli": "^1.0.1",
